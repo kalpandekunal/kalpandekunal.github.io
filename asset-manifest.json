@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.a054aaed.js",
+    "main.css": "/static/css/main.9b93e83f.css",
+    "main.js": "/static/js/main.1d05d014.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Kunal_Kalpande_Resume.pdf": "/static/media/Kunal_Kalpande_Resume.01d09ba7bfc069a54b51.pdf",
+    "static/media/aboutme.jpg": "/static/media/aboutme.4c378a5a1c2e66af099f.jpg",
+    "static/media/K.png": "/static/media/K.f79b74fc83cbc131c0f0.png",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.a054aaed.js.map": "/static/js/main.a054aaed.js.map",
+    "static/media/close.svg": "/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
+    "static/media/open.svg": "/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
+    "main.9b93e83f.css.map": "/static/css/main.9b93e83f.css.map",
+    "main.1d05d014.js.map": "/static/js/main.1d05d014.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.a054aaed.js"
+    "static/css/main.9b93e83f.css",
+    "static/js/main.1d05d014.js"
   ]
 }
