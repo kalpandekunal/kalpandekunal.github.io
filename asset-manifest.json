@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dad94092.css",
-    "main.js": "/static/js/main.e35a82ff.js",
+    "main.js": "/static/js/main.b8ae7b53.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/Kunal_Kalpande_Resume.pdf": "/static/media/Kunal_Kalpande_Resume.01d09ba7bfc069a54b51.pdf",
     "static/media/aboutme.jpg": "/static/media/aboutme.4c378a5a1c2e66af099f.jpg",
@@ -10,11 +10,11 @@
     "static/media/close.svg": "/static/media/close.313a8e6ce95e72014ca00fb56d8b3ff3.svg",
     "static/media/open.svg": "/static/media/open.196e865822b06a50385b031f9913c3a0.svg",
     "main.dad94092.css.map": "/static/css/main.dad94092.css.map",
-    "main.e35a82ff.js.map": "/static/js/main.e35a82ff.js.map",
+    "main.b8ae7b53.js.map": "/static/js/main.b8ae7b53.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dad94092.css",
-    "static/js/main.e35a82ff.js"
+    "static/js/main.b8ae7b53.js"
   ]
 }
